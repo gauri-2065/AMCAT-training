@@ -1,6 +1,6 @@
 def msg():
     val1  = int(input("Enter first value: "))
     val2  = int(input("Enter second value: "))
-    print(val1+val2)
+    return print(val1+val2)
 
 msg()
